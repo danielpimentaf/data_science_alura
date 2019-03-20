@@ -1,6 +1,6 @@
 # Projeto de conclusão da formação em Data Science da Alura 
 
-A análise exploritória dos dados de avaliações de filmes do site Movilens foi o meu projeto de conclusão para formação em Data Science
+A análise exploratória dos dados de avaliações de filmes do site Movilens foi o meu projeto de conclusão para formação em Data Science
 na Alura. O projeto foi um estudo dirigido que se desenvolveu em duas partes:
 
 1. Resolução de perguntas predefinidas.
